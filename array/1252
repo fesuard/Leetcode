@@ -16,8 +16,4 @@ class Solution:
             mat[indice[0]] = [i+1 for i in mat[indice[0]]]
             for c in mat:
                 c[indice[1]] += 1
-        for row in mat:
-            for elem in row:
-                if elem % 2 != 0:
-                    res += 1
-        return res
+        return sum(1 if elem % 2 != 0 else 0 for row in mat for elem in row)
