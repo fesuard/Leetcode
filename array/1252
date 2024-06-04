@@ -10,7 +10,7 @@ class Solution:
     def oddCells(self, m: int, n: int, indices: List[List[int]]) -> int:
         mat = []
         res = 0
-        for i in range(0, m):
+        for i in range(m):
             mat.append([0] * n)
         for indice in indices:
             mat[indice[0]] = [i+1 for i in mat[indice[0]]]
