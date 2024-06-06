@@ -11,3 +11,8 @@ class Solution:
             if len(num) % 2 == 0:
                 res += 1
         return res
+
+# one liner:
+class Solution:
+    def findNumbers(self, nums: List[int]) -> int:
+        return len([num for num in nums if len(str(num)) % 2 == 0])
