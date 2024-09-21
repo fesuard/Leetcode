@@ -12,7 +12,7 @@ class Solution:
             for j in range(i + 1, len(nums)):
                 if nums[i] + nums[j] == target:
                     res.extend([i, j])
-        return res
+                    return res
 
 
 #hashmap
@@ -25,4 +25,3 @@ class Solution1:
             complement = target - nums[i]
             if complement in hashMap and hashMap[complement] != i:
                 return [hashMap[complement], i]
-
