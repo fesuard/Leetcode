@@ -1,7 +1,10 @@
-https://leetcode.com/problems/majority-element/description
-Given an array nums of size n, return the majority element.
-The majority element is the element that appears more than ⌊n / 2⌋ times. 
-You may assume that the majority element always exists in the array.
+# https://leetcode.com/problems/majority-element/description
+# Given an array nums of size n, return the majority element.
+# The majority element is the element that appears more than ⌊n / 2⌋ times.
+# You may assume that the majority element always exists in the array.
+from collections import defaultdict
+from typing import List
+
 
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
@@ -11,8 +14,9 @@ class Solution:
             if nums.count(num) > n / 2:
                 return num
 
+
 # hashmap:
-class Solution:
+class Solution1:
     def majorityElement(self, nums: List[int]) -> int:
         n = len(nums)
         d = defaultdict(int)
