@@ -1,0 +1,11 @@
+# Python version
+python==3.11.5
+
+# Testing framework
+pytest==7.4.0
+
+# Optional libraries for certain problems
+numpy==1.23.5
+
+# Optional type hint checker
+mypy==1.5.1
