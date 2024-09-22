@@ -1,8 +1,9 @@
-https://leetcode.com/problems/count-the-number-of-consistent-strings/description/
-Count the Number of Consistent Strings
-You are given a string allowed consisting of distinct characters and an array of strings words. A string is consistent if all characters in the string appear in the string allowed.
+# https://leetcode.com/problems/count-the-number-of-consistent-strings/description/
+# You are given a string allowed consisting of distinct characters and an array of strings words.
+# A string is consistent if all characters in the string appear in the string allowed.
+# Return the number of consistent strings in the array words.
+from typing import List
 
-Return the number of consistent strings in the array words.
 
 class Solution:
     def countConsistentStrings(self, allowed: str, words: List[str]) -> int:

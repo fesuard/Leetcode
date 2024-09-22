@@ -1,6 +1,8 @@
-https://leetcode.com/problems/sum-of-unique-elements/description/
-You are given an integer array nums. The unique elements of an array are the elements that appear exactly once in the array.
-Return the sum of all the unique elements of nums.
+# https://leetcode.com/problems/sum-of-unique-elements/description/
+# You are given an integer array nums. The unique elements of an array are the elements that appear exactly once in the array.
+# Return the sum of all the unique elements of nums.
+from typing import List
+
 
 class Solution:
     def sumOfUnique(self, nums: List[int]) -> int:
@@ -10,8 +12,9 @@ class Solution:
                 res.append(num)
         return sum(res)
 
-# using dictionary:
-class Solution:
+
+# hashmap:
+class Solution1:
     def sumOfUnique(self, nums: List[int]) -> int:
         res = {}
         sum_res = 0
