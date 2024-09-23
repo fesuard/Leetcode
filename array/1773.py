@@ -31,3 +31,4 @@ class Solution1:
             if item[dic[ruleKey]] == ruleValue:
                 count += 1
         return count
+
