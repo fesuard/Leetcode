@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cd4bbd3b-e721-4d2e-a8b8-b66e29122de8" name="Changes" comment="added short problem description">
+      <change afterPath="$PROJECT_DIR$/array/script.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sorting/1051" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sorting/1122" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sorting/1200" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sorting/1337" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sorting/1356" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sorting/1365" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sorting/1385" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sorting/1403" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sorting/1460" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sorting/1464" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sorting/1502" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sorting/1636" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sorting/1637" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sorting/1710" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sorting/1859" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sorting/1913" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sorting/2037" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sorting/2089" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sorting/2154" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sorting/2160" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sorting/2357" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sorting/2363" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sorting/2389" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sorting/2418" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sorting/2475" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sorting/2500" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sorting/2578" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sorting/2706" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sorting/2733" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sorting/2824" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sorting/2974" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sorting/349" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sorting/561" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sorting/905" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sorting/922" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sorting/977" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2mNDRrp09Pmm1buPjl0uMzgxlCi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.1.executor": "Run",
+    "Python.13.executor": "Run",
+    "Python.14.executor": "Run",
+    "Python.1748.executor": "Run",
+    "Python.1773.executor": "Run",
+    "Python.1929.executor": "Run",
+    "Python.2215.executor": "Run",
+    "Python.2496.executor": "Run",
+    "Python.26.executor": "Run",
+    "Python.2913.executor": "Run",
+    "Python.961.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "configurable.group.project",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Python.2913">
+    <configuration name="1748" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Leetcode" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/array" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/array/1748.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="1929" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Leetcode" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.12" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/array" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/array/1929.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2215" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Leetcode" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/array" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/array/2215.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2496" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Leetcode" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/array" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/array/2496.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2913" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Leetcode" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/array" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/array/2913.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.2913" />
+      <item itemvalue="Python.1748" />
+      <item itemvalue="Python.1929" />
+      <item itemvalue="Python.2215" />
+      <item itemvalue="Python.2496" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.2913" />
+        <item itemvalue="Python.2496" />
+        <item itemvalue="Python.2215" />
+        <item itemvalue="Python.1929" />
+        <item itemvalue="Python.1748" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-PY-241.14494.241" />
+        <option value="bundled-python-sdk-0509580d9d50-28c9f5db9ffe-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.14494.241" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd4bbd3b-e721-4d2e-a8b8-b66e29122de8" name="Changes" comment="" />
+      <created>1726908134401</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726908134401</updated>
+      <workItem from="1726908135437" duration="4829000" />
+      <workItem from="1726913565790" duration="197000" />
+      <workItem from="1726947238274" duration="2269000" />
+      <workItem from="1726998844453" duration="1846000" />
+      <workItem from="1727035427743" duration="2018000" />
+      <workItem from="1727119554635" duration="2242000" />
+      <workItem from="1727121833038" duration="271000" />
+      <workItem from="1727206487735" duration="1623000" />
+      <workItem from="1727287097208" duration="2000" />
+      <workItem from="1727292963870" duration="1473000" />
+      <workItem from="1727504616462" duration="7171000" />
+    </task>
+    <task id="LOCAL-00001" summary="QoL changes">
+      <option name="closed" value="true" />
+      <created>1726909207750</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726909207750</updated>
+    </task>
+    <task id="LOCAL-00002" summary="QoL changes">
+      <option name="closed" value="true" />
+      <created>1726909292857</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1726909292857</updated>
+    </task>
+    <task id="LOCAL-00003" summary="QoL changes">
+      <option name="closed" value="true" />
+      <created>1726912683369</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1726912683369</updated>
+    </task>
+    <task id="LOCAL-00004" summary="QoL changes">
+      <option name="closed" value="true" />
+      <created>1726913733541</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1726913733541</updated>
+    </task>
+    <task id="LOCAL-00005" summary="added short problem description">
+      <option name="closed" value="true" />
+      <created>1726949515160</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1726949515160</updated>
+    </task>
+    <task id="LOCAL-00006" summary="added short problem description">
+      <option name="closed" value="true" />
+      <created>1727000689630</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1727000689630</updated>
+    </task>
+    <task id="LOCAL-00007" summary="added short problem description">
+      <option name="closed" value="true" />
+      <created>1727037138133</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1727037138133</updated>
+    </task>
+    <task id="LOCAL-00008" summary="added short problem description">
+      <option name="closed" value="true" />
+      <created>1727121650901</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1727121650901</updated>
+    </task>
+    <task id="LOCAL-00009" summary="added short problem description">
+      <option name="closed" value="true" />
+      <created>1727208047902</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1727208047902</updated>
+    </task>
+    <task id="LOCAL-00010" summary="added short problem description">
+      <option name="closed" value="true" />
+      <created>1727294405734</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1727294405734</updated>
+    </task>
+    <task id="LOCAL-00011" summary="added short problem description">
+      <option name="closed" value="true" />
+      <created>1727512176379</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1727512176379</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="QoL changes" />
+    <MESSAGE value="added short problem description" />
+    <option name="LAST_COMMIT_MESSAGE" value="added short problem description" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Leetcode$26.coverage" NAME="26 Coverage Results" MODIFIED="1726913653562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/array" />
+    <SUITE FILE_PATH="coverage/Leetcode$1.coverage" NAME="1 Coverage Results" MODIFIED="1726913690111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/array" />
+    <SUITE FILE_PATH="coverage/Leetcode$2215.coverage" NAME="2215 Coverage Results" MODIFIED="1727206815530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/array" />
+    <SUITE FILE_PATH="coverage/Leetcode$2496.coverage" NAME="2496 Coverage Results" MODIFIED="1727207424952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/array" />
+    <SUITE FILE_PATH="coverage/Leetcode$1929.coverage" NAME="1929 Coverage Results" MODIFIED="1727121917171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/array" />
+    <SUITE FILE_PATH="coverage/Leetcode$14.coverage" NAME="14 Coverage Results" MODIFIED="1726910139951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/array" />
+    <SUITE FILE_PATH="coverage/Leetcode$1748.coverage" NAME="1748 Coverage Results" MODIFIED="1727037384497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/array" />
+    <SUITE FILE_PATH="coverage/Leetcode$961.coverage" NAME="961 Coverage Results" MODIFIED="1726949442183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/array" />
+    <SUITE FILE_PATH="coverage/Leetcode$1773.coverage" NAME="1773 Coverage Results" MODIFIED="1727037321922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/array" />
+    <SUITE FILE_PATH="coverage/Leetcode$2913.coverage" NAME="2913 Coverage Results" MODIFIED="1727506815764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/array" />
+    <SUITE FILE_PATH="coverage/Leetcode$13.coverage" NAME="13 Coverage Results" MODIFIED="1726910060303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/array" />
+  </component>
+</project>
