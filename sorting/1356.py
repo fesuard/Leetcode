@@ -1,18 +1,21 @@
-https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/description/
-Sort Integers by The Number of 1 Bits
-You are given an integer array arr. Sort the integers in the array in ascending order by the number of 1's in their binary representation and in case of two or more integers have the same number of 1's you have to sort them in ascending order.
+# https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/description/
+# You are given an integer array arr. Sort the integers in the array in ascending order by the number of 1's in their
+# binary representation and in case of two or more integers have the same number of 1's you have to sort them in
+# ascending order. Return the array after sorting it.
+from typing import List
 
-Return the array after sorting it.
 
+# normal method, using bin
 class Solution:
     def sortByBits(self, arr: List[int]) -> List[int]:
-        return sorted(arr, key=lambda x: (str(bin(x)).count('1'),x))
+        return sorted(arr, key=lambda x: (str(bin(x)).count('1'), x))
 
-Method without using bin:
-class Solution:
+
+# method without using bin and with bubble sort:
+class Solution1:
     def sortByBits(self, arr: List[int]) -> List[int]:
         binary_list = []
-        final_list =[]
+        final_list = []
         for elem in arr:
             binary_elem = ""
             while elem >= 1:
