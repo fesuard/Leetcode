@@ -12,3 +12,14 @@ class Solution:
 
 
 # hashmap
+class Solution1:
+    def frequencySort(self, nums: List[int]) -> List[int]:
+        hashm = {}
+        for num in nums:
+            hashm[num] = hashm.get(num, 0) + 1
+        freq = list(hashm.items())
+        freq = sorted(freq, key=lambda x: (x[1], -x[0]))
+        res = []
+        for a, b in freq:
+            res.extend([a] * b)
+        return res
