@@ -8,14 +8,13 @@ class Solution:
     def romanToInt(self, s: str) -> int:
         roman_num = dict()
         romans = ["I", "V", "X", "L", "C", "D", "M"]
-        nums = [1, 5 ,10 ,50 ,100 ,500 ,1000]
+        nums = [1, 5, 10, 50, 100, 500, 1000]
         for i in range(len(romans)):
             roman_num[romans[i]] = nums[i]
         total = 0
         for i in range(len(s)):
-            if i < len(s)-1 and roman_num[s[i+1]] > roman_num[s[i]]:
+            if i < len(s) - 1 and roman_num[s[i + 1]] > roman_num[s[i]]:
                 total -= roman_num[s[i]]
             else:
                 total += roman_num[s[i]]
         return total
-        
