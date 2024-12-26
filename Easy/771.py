@@ -15,3 +15,9 @@ class Solution:
 
         return res
       
+
+# one liner 
+class Solution2:
+    def numJewelsInStones(self, jewels: str, stones: str) -> int:
+        return sum(num in jewels for num in stones)
+        
