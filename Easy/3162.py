@@ -14,4 +14,9 @@ class Solution:
                     res += 1
 
         return res
-      
+
+
+# same approach, but using product to do it on one line
+class Solution1:
+    def numberOfPairs(self, nums1: List[int], nums2: List[int], k: int) -> int:
+        return sum(a % (b * k) == 0 for a, b in product(nums1, nums2))
