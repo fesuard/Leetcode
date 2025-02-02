@@ -23,6 +23,15 @@ class Solution:
 
 
 # math solution, since every step 1 team loses until only one is left as the winner
-class Solution:
+class Solution1:
     def numberOfMatches(self, n: int) -> int:
         return n - 1
+
+
+# recursive solution 
+class Solution2:
+    def numberOfMatches(self, n: int) -> int:
+        if n == 1:
+            return 0
+
+        return n // 2 + self.numberOfMatches(n // 2 + n % 2)
