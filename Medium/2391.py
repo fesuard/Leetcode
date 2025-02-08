@@ -14,21 +14,14 @@
 class Solution:
     def garbageCollection(self, garbage: List[str], travel: List[int]) -> int:
         res = 0
-        indexes = [0] * 3
+        last_position = {'P': 0, 'G': 0, 'M': 0}
         
         for i in range(len(garbage)):
-            if 'P' in garbage[i]:
-                indexes[0] = max(indexes[0], i)
-            
-            if 'G' in garbage[i]:
-                indexes[1] = max(indexes[1], i)
-
-            if 'M' in garbage[i]:
-                indexes[2] = max(indexes[2], i)
-
             res += len(garbage[i])
+            for g in garbage[i]:
+                last_position[g] = i
 
-        for index in indexes:
+        for index in last_position.values():
             res += sum(travel[:index])
 
         return res
