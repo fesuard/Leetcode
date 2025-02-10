@@ -8,6 +8,8 @@ from typing import List
 class Solution:
     def restoreString(self, s: str, indices: List[int]) -> str:
         res_lst = [''] * len(indices)
+        
         for i in range(len(indices)):
             res_lst[indices[i]] = s[i]
+            
         return ''.join(res_lst)
